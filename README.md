@@ -1,6 +1,8 @@
 # gqs-algoritmo-02-py 
 ## CalcuLAJUDA
 
+autor:pedro henrique martins
+prof: daniel paiva
 
 Programa em Python, feito para ajudar no calculo de produtos e controle em compras.
 
